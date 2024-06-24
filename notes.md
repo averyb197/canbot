@@ -1,7 +1,7 @@
 ## **Notes and Resources**
 
 This code is ugly and not well organized but just a basic demo to make sure it would do what we needed. 
-
+TIMER DOESNT WORK YET
 
 To-Dos:
 - figure out how the hell to handle more than one user at a time with this interface
